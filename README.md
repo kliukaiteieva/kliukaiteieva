@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kliukaiteieva
-- 👀 I’m self-learning in Front-End Developer field.
+- 👀 I’m self-learning in Front-End Development field.
 - 💞️ I’m looking to collaborate on Projects as a trainee.
 - 📫 How to reach me - kliukaite.ieva@gmail.com
 
